@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
