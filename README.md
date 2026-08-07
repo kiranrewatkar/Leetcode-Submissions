@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -39,9 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
