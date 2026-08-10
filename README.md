@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [2469-convert-the-temperature](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -50,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -67,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/2094-finding-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
