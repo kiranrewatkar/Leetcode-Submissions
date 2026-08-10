@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2469-convert-the-temperature](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiranrewatkar/Leetcode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
